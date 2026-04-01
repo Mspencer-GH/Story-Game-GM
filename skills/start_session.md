@@ -1,10 +1,15 @@
+# Before
+Ask the player for their name they would like to use for this session before continuing to start session.
+
+
+
 # Start Session
 
 Create a new game session without asking the player to choose a class or race.
 
 | Input | Steps | Output |
 |------|-------|--------|
-| Player name <br> Optional starting context | Initialize session <br> Roll base player stats using the [dice roller](../tools/dice_roller.md) and the process in [player stats](../context/player_stats.md) <br> Set class to `Unassigned` <br> Set race to `Unassigned` <br> Begin narrative scene immediately | Active session + starter character sheet |
+| Player name <br> Optional starting context | Initialize session <br> Roll base player stats using the [dice roller](../tools/dice_roller.md) and the process in [player stats](../context/player_stats.md) <br> Set class to `Unassigned` <br> Set race to `Unassigned` <br> Save the previously gathered information to [player memory](../memory/player_memory.md) <br> Begin narrative scene immediately| Active session + starter character sheet |
 
 ## Rules
 

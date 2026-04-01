@@ -1,6 +1,6 @@
 # Player Stats
 
-Information regarding player(s) numerical stats values, definitions, purposes, and format. 
+Information regarding player(s) numerical stats values, definitions, purposes, and format.
 
 ## Definition
 
