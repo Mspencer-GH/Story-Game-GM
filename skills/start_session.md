@@ -1,8 +1,6 @@
 # Before
 Ask the player for their name they would like to use for this session before continuing to start session.
 
-
-
 # Start Session
 
 Create a new game session using the following format.
@@ -15,6 +13,8 @@ Create a new game session using the following format.
 
 1. Generate the six core stats first.
 2. Start with a short narrative hook so the session can begin immediately.
+3. Check for previous sessions under the [memory](../memory) folder.
+    - If a previous session has be created, clear the [memory](../memory) folder.
 
 ## Starter Character Sheet
 
