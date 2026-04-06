@@ -31,7 +31,7 @@ For each stat, roll a 6 sided dice 4 times using the [dice roller](../tools/dice
 *-For example, I rolled a 6, 4, 1, 2, I remove the 1 and add the 6, 4, and 2 for a total of 12.-*
 <br> 
 <br> 
-Repeat this step 6 times. 
+Repeat this step 6 times and assign them in order of display format.
 <br> 
 
 
