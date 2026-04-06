@@ -1,3 +1,3 @@
 |Input| Steps | Output |
 |-----|-------|--------|
-| Attacker Stats <br> Defender stats <br> Action | Determine hit chance <br> Roll dice <br> Calculate damage <br> Apply effects | Narrative + mechanical result
+| Enemy Stats <br> User stats <br> Action | Determine hit chance <br> Roll dice and calculate damage using [dice roller](../tools/dice_roller.md) <br> Apply effects | Narrative + mechanical result
