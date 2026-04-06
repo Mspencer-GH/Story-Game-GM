@@ -15,6 +15,7 @@ Create a new game session using the following format.
 2. Start with a short narrative hook so the session can begin immediately.
 3. Check for previous sessions under the [memory](../memory) folder.
     - If a previous session has be created, clear the [memory](../memory) folder.
+4. When an error or problem happens, alert the user IMMEADIATELY
 
 ## Starter Character Sheet
 
