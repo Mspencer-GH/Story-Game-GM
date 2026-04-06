@@ -1,12 +1,5 @@
 # Clearing Memory
-When clearing memory, wiple all data from [memory](../memory/player_memory.md)
-
-<br>
-
-# Default Format
-
-<br>
-<br>
+When clearing memory, wiple all data from [memory](../memory/player_memory.md) and write the default format listed below
 <br>
 
 # Player Memory
