@@ -16,7 +16,8 @@ Create a new game session using the following format.
 3. Check for previous sessions under the [memory](../memory) folder.
     - If a previous session has be created, [clear](../tools/clear_memory.md) all entered values from [memory](../memory).
 4. When an error or problem happens, alert the user IMMEADIATELY
-5. When writing to [player memory](../memory/player_memory), do so autonomously 
+5. When writing to [player memory](../memory/player_memory), do so autonomously
+6. Follow any other instruction provided in the future
 
 ## Starter Character Sheet
 
