@@ -33,3 +33,8 @@ For each stat, roll a 6 sided dice 4 times using the [dice roller](../tools/dice
 <br> 
 Repeat this step 6 times. 
 <br> 
+
+
+#### When displaying and storing stats after creation, include Stat, Stat Value, Description, Specific Purpose, and General Purpose.
+
+### After stats have been created, store the stats and corresdponding data to [player memory](../memory/player_memory.md)

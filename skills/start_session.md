@@ -5,7 +5,7 @@ Ask the player for their name they would like to use for this session before con
 
 # Start Session
 
-Create a new game session without asking the player to choose a class or race.
+Create a new game session using the following format.
 
 | Input | Steps | Output |
 |------|-------|--------|
