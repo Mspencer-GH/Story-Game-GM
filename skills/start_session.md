@@ -1,5 +1,7 @@
 # Before
 Ask the player for their name they would like to use for this session before continuing to start session.
+<br>
+When the user asks to start a session, this counts as authorization to clear and rewrite [player memory](../memory/player_memory.md).
 
 # Start Session
 
@@ -17,7 +19,8 @@ Create a new game session using the following format.
     - If a previous session has be created, [clear](../tools/clear_memory.md) all entered values from [memory](../memory).
 4. When an error or problem happens, alert the user IMMEADIATELY
 5. When writing to [player memory](../memory/player_memory), do so autonomously
-6. Follow any other instruction provided in the future
+6. Treat “start session” as permission to initialize and save memory.
+7. Follow any other instruction provided in the future
 
 ## Starter Character Sheet
 
