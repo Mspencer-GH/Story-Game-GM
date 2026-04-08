@@ -19,7 +19,7 @@ Information regarding player(s) numerical stats values, definitions, purposes, a
 | **Undead** | Reanimated or death-touched beings, difficult to break but unsettling to others. | <span style="color:green">+2 CON</span><br><span style="color:green">+1 WIS</span><br><span style="color:red">-1 CHA</span> | **Deathless** — Gain **+2** against fear, poison, and pain-based effects. You do not need to eat or sleep normally, but healing from normal rations/rest is reduced by **50%**. |
 | **Beastfolk** | Animal-featured humanoids guided by instinct, speed, and sharpened senses. | <span style="color:green">+2 DEX</span><br><span style="color:green">+1 WIS</span><br><span style="color:red">-1 INT</span> | **Primal Instinct** — Gain **+2 Survival** and **+2 Tracking**. You cannot be surprised except by enemies whose stealth result exceeds your perception by **5+**. |
 
-#### When displaying and storing races, include Race, Description, Stat Changes, and Specialty exactly as they are listed above.
+#### When displaying and storing races, make sure to include Race, Description, Stat Changes, and Specialty exactly as they are listed above.
 
 ### After a Race has been selected, store the class and corresdponding data to [player memory](../memory/player_memory.md)
  

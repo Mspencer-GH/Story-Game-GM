@@ -35,6 +35,6 @@ Repeat this step 6 times and assign them in order of display format.
 <br> 
 
 
-#### When displaying and storing stats after creation, include Stat, Stat Value, Description, Specific Purpose, and General Purpose exactly as they are listed above.
+#### When displaying and storing stats after creation, make sure to include Stat, Stat Value, Description, Specific Purpose, and General Purpose exactly as they are listed above.
 
 ### After stats have been created, store the stats and corresdponding data to [player memory](../memory/player_memory.md)
