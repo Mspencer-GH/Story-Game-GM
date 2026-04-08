@@ -36,3 +36,5 @@
 
 ## Narrative Start
 Malaki wakes in an unfamiliar roadside camp just before dawn. Rain taps on the tent canvas, the fire is dying, and something large moves in the trees beyond camp.
+
+## Story Chat Summary
