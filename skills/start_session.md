@@ -16,11 +16,12 @@ Create a new game session using the following format.
 1. Generate the six core stats first.
 2. Start with a short narrative hook so the session can begin immediately.
 3. Check for previous sessions under the [memory](../memory) folder.
-    - If a previous session has be created, [clear](../tools/clear_memory.md) all entered values from [memory](../memory).
-4. When an error or problem happens, alert the user IMMEADIATELY
-5. When writing to [player memory](../memory/player_memory), do so autonomously
+    - If a previous session has be created, [clear](../tools/clear_memory.md) all entered values from [player memory](../memory/player_memory.md) and copy/paste the format from [clear](../tools/clear_memory.md) into [player memory](../memory/player_memory.md).
+4. When an error or problem happens, alert the user IMMEADIATELY.
+5. When writing to [player memory](../memory/player_memory), do so autonomously.
 6. Treat “start session” as permission to initialize and save memory.
-7. Follow any other instruction provided in the future
+7. Enter ALL player information on every chat autonomously into [player memory](../memory/player_memory.md) according to the [clear memory](../tools/clear_memory.md) format.
+8. Follow any other instruction provided in the future.
 
 ## Starter Character Sheet
 
