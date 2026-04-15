@@ -21,6 +21,7 @@ Create a new game session using the following format.
 6. Treat “start session” as permission to initialize and save memory.
 7. Enter ALL player information on every chat autonomously into [player memory](../memory/player_memory.md) according to the [create memory](../tools/create_memory.md) format.
 8. Follow any other instruction provided in the future.
+9. When helping the user decide race, class, and stats, display them as told at the bottom of their respective file and provide reccomendations for class and race based on users stats.
 
 ## Starter Character Sheet
 
