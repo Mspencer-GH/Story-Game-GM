@@ -1,4 +1,6 @@
 # Player Memory
+## File Naming
+When creating the memory file, lable it `player_memory_(x).md` but put the users name for x while keeping the parenthesis
 
 ## Player
 - Name: _______
