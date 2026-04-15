@@ -1,12 +1,4 @@
-# Clearing Memory
-When clearing memory, wiple all data from [memory](../memory/player_memory.md) and write the default format listed below
-<br>
-
 # Player Memory
-
-## Session Status
-- Session: Active
-- Previous memory cleared before initialization
 
 ## Player
 - Name: _______
@@ -34,7 +26,7 @@ When clearing memory, wiple all data from [memory](../memory/player_memory.md) a
 
 | Class | Description | Stat Changes | Specialty | Skills | Skill Unlock Requirements |
 |------|-------------|--------------|-----------|--------|---------------------------|
-| _______ | _______ | _______ | _______ | _______ | _______ |
+|_______|_____________|_______________|__________|______|______________________________|
 
 ## Starter Character Sheet
 
